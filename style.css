@@ -1,11 +1,11 @@
 .container {
-    height: 200px;
+    height: 150px;
     width: 100%;
 }
 
 #display {
     width: 100%;
-    font-size: 72px;
+    font-size: 80px;
     text-align: center ;
     margin: 0px auto;
 }
